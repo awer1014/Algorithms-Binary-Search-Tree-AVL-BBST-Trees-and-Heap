@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/03/19 22:46:16.000.873,=F:\Code\Data Structures\Project1PCH1.h</Transaction>
+    <Transaction>2020/03/19 22:46:17.000.348,=F:\Code\Data Structures\Unit1.cpp</Transaction>
+    <Transaction>2020/03/19 22:54:57.000.813,F:\Code\Algorithms\Unit1.dfm=F:\Code\Data Structures\Unit1.dfm</Transaction>
+    <Transaction>2020/03/19 22:54:57.000.813,F:\Code\Algorithms\Unit1.cpp=F:\Code\Data Structures\Unit1.cpp</Transaction>
+    <Transaction>2020/03/19 22:54:57.000.813,F:\Code\Algorithms\Unit1.h=F:\Code\Data Structures\Unit1.h</Transaction>
+    <Transaction>2020/03/20 23:57:58.000.607,F:\Code\Algorithms\HW1_07360194_陳維嶸\Project1PCH1.h=F:\Code\Data Structures\Project1PCH1.h</Transaction>
+    <Transaction>2020/03/20 23:58:03.000.548,F:\Code\Algorithms\HW1_07360194_陳維嶸\Project1.cbproj=F:\Code\Data Structures\Project1.cbproj</Transaction>
+    <Transaction>2020/03/22 03:27:29.000.263,E:\Code\Algorithms\HW1_07360194_陳維嶸\Unit1.cpp=E:\Code\Algorithms\Unit1.cpp</Transaction>
+    <Transaction>2020/03/22 03:27:29.000.263,E:\Code\Algorithms\HW1_07360194_陳維嶸\Unit1.h=E:\Code\Algorithms\Unit1.h</Transaction>
+    <Transaction>2020/03/22 03:27:29.000.263,E:\Code\Algorithms\HW1_07360194_陳維嶸\Unit1.dfm=E:\Code\Algorithms\Unit1.dfm</Transaction>
+    <Transaction>2020/04/03 12:45:55.000.055,E:\Code\Algorithms\HW2_07360194_陳維嶸\Unit1.cpp=E:\Code\Algorithms\HW1_07360194_陳維嶸\Unit1.cpp</Transaction>
+    <Transaction>2020/04/03 12:45:55.000.055,E:\Code\Algorithms\HW2_07360194_陳維嶸\Unit1.h=E:\Code\Algorithms\HW1_07360194_陳維嶸\Unit1.h</Transaction>
+    <Transaction>2020/04/03 12:45:55.000.055,E:\Code\Algorithms\HW2_07360194_陳維嶸\Unit1.dfm=E:\Code\Algorithms\HW1_07360194_陳維嶸\Unit1.dfm</Transaction>
+    <Transaction>2020/04/15 23:17:04.000.748,F:\Code\Algorithms\HW2_07360194_陳維嶸\Unit1.h=F:\Code\Algorithms\HW3_07360194_陳維嶸\Unit1.h</Transaction>
+    <Transaction>2020/04/15 23:17:04.000.748,F:\Code\Algorithms\HW2_07360194_陳維嶸\Unit1.cpp=F:\Code\Algorithms\HW3_07360194_陳維嶸\Unit1.cpp</Transaction>
+    <Transaction>2020/04/15 23:17:04.000.748,F:\Code\Algorithms\HW2_07360194_陳維嶸\Unit1.dfm=F:\Code\Algorithms\HW3_07360194_陳維嶸\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
